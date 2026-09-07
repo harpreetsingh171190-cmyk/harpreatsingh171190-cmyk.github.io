@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This repository hosts the source code for my portfolio website built using **Hugo** with the **PaperMod** theme, deployed automatically via **GitHub Actions** to **GitHub Pages**.
 
-🔗 **Live Website:** [https://harpreatsingh171190-cmyk.github.io/](https://harpreatsingh171190-cmyk.github.io/)
+🔗 **Live Website:** [https://harpreetsingh171190-cmyk.github.io/](https://harpreetsingh171190-cmyk.github.io/)
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my personal portfolio repository! This repository hosts the source co
 
 ## 🚀 Featured Projects
 
-1. **[Physics-Informed Neural Network (PINN) for 2D Structural Stress](https://github.com/harpreatsingh171190-cmyk/pinn-fea-stress-surrogate)**
+1. **[Physics-Informed Neural Network (PINN) for 2D Structural Stress](https://github.com/harpreetsingh171190-cmyk/pinn-fea-stress-surrogate)**
    - Predicts 2D Von Mises stress fields and notch stress concentration factors ($K_t$) under uniaxial tension.
    - Enforces Kirsch equations and Peterson finite-width boundary constraints into loss formulations.
 
