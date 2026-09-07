@@ -1,4 +1,4 @@
-baseURL: "https://harpreatsingh171190-cmyk.github.io/"
+baseURL: "https://harpreetsingh171190-cmyk.github.io/"
 title: "Harpreet Singh | Portfolio"
 theme: ["PaperMod"]
 
@@ -23,7 +23,7 @@ params:
 
   socialIcons:
     - name: "github"
-      url: "https://github.com/harpreatsingh171190-cmyk"
+      url: "https://github.com/harpreetsingh171190-cmyk"
 
 menu:
   main:
