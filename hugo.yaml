@@ -16,6 +16,10 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Harpreet Singh 👋"
     Content: "Mechanical Engineer specializing in Physics-Informed Machine Learning (PIML), CFD Surrogate Modeling, and Thermal-Fluid Optimization."
+    imageUrl: "profile.jpg"
+    imageTitle: "Harpreet Singh"
+    imageWidth: 150
+    imageHeight: 150
 
   socialIcons:
     - name: "github"
