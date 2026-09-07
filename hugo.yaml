@@ -1,0 +1,33 @@
+baseURL: "https://harpreatsingh171190-cmyk.github.io/"
+title: "Harpreet Singh | Portfolio"
+theme: ["PaperMod"]
+
+params:
+  env: production
+  title: "Harpreet Singh"
+  description: "Mechanical Engineer & AI/ML Specialist | Physics-Informed Neural Networks | CFD"
+  author: "Harpreet Singh"
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: "Hi, I'm Harpreet Singh 👋"
+    Content: "Mechanical Engineer specializing in Physics-Informed Machine Learning (PIML), CFD Surrogate Modeling, and Thermal-Fluid Optimization."
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/harpreatsingh171190-cmyk"
+
+menu:
+  main:
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
